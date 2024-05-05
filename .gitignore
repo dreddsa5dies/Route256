@@ -1,5 +1,7 @@
 # решения
 *.go
+*tests.go
+no_effective
 
 *tests/
 
