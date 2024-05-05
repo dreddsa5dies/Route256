@@ -1,2 +1,7 @@
 # решения
 *.go
+
+*tests/
+
+.idea/
+.vscode/
